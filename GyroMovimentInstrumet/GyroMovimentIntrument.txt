@@ -1,1 +1,0 @@
-Simple design of gyroscope and control of polar cordenates structure.
